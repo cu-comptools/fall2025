@@ -3,13 +3,13 @@
 Welcome to **CSCI 5526 Fall 2025: Computational Tools for Multiscale Problems**. 
 
 ```{admonition} Logistics
-**Course**: CSCI 5525, Fall 2025
-**Time**: Tuesday and Thursday, 11:00 AM – 12:15 PM  
-**Location**: CMDI Dept of Info Science 158 
+**Course**: CSCI 5525, Fall 2025   
+**Time**: Tuesday and Thursday, 11:00 AM – 12:15 PM   
+**Location**: CMDI Dept of Info Science 158  
 **Instructor**: Fruzsina Agocs   
-**Email**: fruzsina.agocs@colorado.edu  
-**Office hours**: Wednesday and Friday, 1–2 PM, ECOT 614
-<a href="img/syllabus.pdf" target="_blank">**Syllabus**</a>
+**Email**: fruzsina.agocs@colorado.edu   
+**Office hours**: Wednesday and Friday, 1–2 PM, ECOT 614  
+<a href="img/syllabus.pdf" target="_blank">**Syllabus**</a> 
 ```
 
 ## Resources 
