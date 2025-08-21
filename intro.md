@@ -1,6 +1,6 @@
 # Welcome
 
-Welcome to **CSCI 7000-014 Fall 2024: Computational Tools for Multiscale Problems**. 
+Welcome to **CSCI 5526 Fall 2025: Computational Tools for Multiscale Problems**. 
 
 ```{admonition} Logistics
 **Course**: CSCI 5525, Fall 2025
