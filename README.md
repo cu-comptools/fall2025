@@ -1,2 +1,2 @@
-# fall2025
-Notes for CSCI 5526 for AY 2025/26
+# CSCI 7000-014 Fall 2024: Computational Tools for Multiscale Problems
+Teaching material for the above course.
