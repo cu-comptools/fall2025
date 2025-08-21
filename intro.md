@@ -3,12 +3,12 @@
 Welcome to **CSCI 7000-014 Fall 2024: Computational Tools for Multiscale Problems**. 
 
 ```{admonition} Logistics
-**Course**: CSCI 7000, Fall 2024  
-**Time**: Monday, Wednesday, Friday 3:35–4:25 PM  
-**Location**: ECEE 283  
+**Course**: CSCI 5525, Fall 2025
+**Time**: Tuesday and Thursday, 11:00 AM – 12:15 PM  
+**Location**: CMDI Dept of Info Science 158 
 **Instructor**: Fruzsina Agocs   
 **Email**: fruzsina.agocs@colorado.edu  
-**Office hours**: Fridays 4:30–5:30pm, ECOT 614 (or by appointment)  
+**Office hours**: Wednesday and Friday, 1–2 PM, ECOT 614
 <a href="img/syllabus.pdf" target="_blank">**Syllabus**</a>
 ```
 
