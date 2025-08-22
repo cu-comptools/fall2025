@@ -8,7 +8,7 @@ Welcome to **CSCI 5526 Fall 2025: Computational Tools for Multiscale Problems**.
 **Location**: CMDI Dept of Info Science 158  
 **Instructor**: Fruzsina Agocs   
 **Email**: fruzsina.agocs@colorado.edu   
-**Office hours**: Wednesday and Friday, 1–2 PM, ECOT 614  
+**Office hours**: Wednesday 1:30-2:30 PM and Friday 1–2 PM, ECOT 614  
 <a href="img/syllabus.pdf" target="_blank">**Syllabus**</a> 
 ```
 
