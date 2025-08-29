@@ -10,6 +10,7 @@ chapters:
 # - file: papers
 - file: course_introduction
 - file: comp_fundamentals
+- file: github
 # - file: poly_interp
 # - file: poly_interp2
 # - file: quadrature
