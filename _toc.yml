@@ -13,7 +13,7 @@ chapters:
 - file: github
 - file: poly_interp
 - file: poly_interp2
-# - file: quadrature
+- file: quadrature
 # - file: ODEs_1
 # - file: ODES2_spectral
 # - file: ODEs_3_asymptotic
