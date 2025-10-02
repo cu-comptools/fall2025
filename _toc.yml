@@ -16,7 +16,7 @@ chapters:
 - file: quadrature
 # - file: ODEs_1
 - file: ODES2_spectral
-# - file: ODEs_3_asymptotic
+- file: ODEs_3_asymptotic
 # - file: adaptivity_stiffness_control_1
 # - file: special_quad_osc
 # - file: special_quad_sing
